@@ -2,6 +2,8 @@ body {
     color: bisque;
     background-color: coral;
     font-size: 12px;
+    border: 10px dotted black;
+    border-radius: 20px;
 
 }
 
@@ -24,4 +26,18 @@ h2 {
 
 .custom{
     color:red
+}
+
+a {
+    text-decoration: none;
+    margin: 100px;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    background: white;
+}
+
+a:hover {
+    color:rgb(0, 255, 64);
+    background: black;
 }
