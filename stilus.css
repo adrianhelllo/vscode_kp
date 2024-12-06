@@ -1,0 +1,27 @@
+body {
+    color: bisque;
+    background-color: coral;
+    font-size: 12px;
+
+}
+
+h2 {
+    font-size: 18px
+}
+
+#bengali{
+    color:red;
+    background-color:white;
+}
+#savannah{
+    color:blue;
+    background-color: aliceblue;
+}
+#scottish{
+    color:green;
+    background-color: black;
+}
+
+.custom{
+    color:red
+}
