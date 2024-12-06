@@ -1,0 +1,30 @@
+body {
+    background-color: coral ;
+    color: brown;
+    font-size: 12pt;
+}
+#savannah_id  {
+    font-size: 18pt;
+    background-color: rgb(255, 251, 240);
+    color: grey;
+
+}
+#scottishfold_id {
+    font-size: 18pt;
+    background-color: rgb(255, 245, 240);
+    color: red;
+
+
+}
+#bengali_id {
+    font-size: 18pt;
+    background-color: rgb(255, 245, 240);
+    color: blueviolet;
+
+}
+.felsorolas_class{
+
+color: aqua;
+
+
+}
